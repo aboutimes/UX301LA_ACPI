@@ -1,4 +1,4 @@
-# UX301la_ACPI_hotpatch
+# ux301la_aipi_hotpatch
 ### 10 Sept
 - create HDAU patch for HDMI/DP audio
 - create HDEF patch audio
