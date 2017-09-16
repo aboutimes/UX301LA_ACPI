@@ -1,5 +1,5 @@
 # ux301la_aipi_hotpatch
-## 16 Sept
+### 16 Sept
 - create XHC patch for USB
 ### 10 Sept
 - create HDAU patch for HDMI/DP audio
