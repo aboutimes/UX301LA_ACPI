@@ -5,7 +5,7 @@
 - create HDAU patch for HDMI/DP audio
 - create HDEF patch audio
 ### 9 Sept
-- create igpu patch
+- create IGPU patch
 ### 8 Sept
-- create config
+- create Config
 
