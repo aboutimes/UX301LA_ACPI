@@ -1,4 +1,6 @@
 # ux301la_aipi_hotpatch
+### 20 Sept
+- create Fn patch for function key
 ### 19 Sept 
 - create PR patch for CPU 
 ### 16 Sept
