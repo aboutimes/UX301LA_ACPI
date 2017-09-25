@@ -1,4 +1,6 @@
 # ux301la_aipi_hotpatch
+### 25 Sept
+- create PNLF patch for DisplayBacklight
 ### 20 Sept
 - create Fn patch for function key
 ### 19 Sept 
