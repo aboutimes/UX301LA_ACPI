@@ -5,13 +5,13 @@
  * 
  * Disassembling to non-symbolic legacy ASL operators
  *
- * Disassembly of iASL80bbAr.aml, Mon Sep 25 21:06:05 2017
+ * Disassembly of iASLWLlBUb.aml, Mon Oct 30 23:05:47 2017
  *
  * Original Table Header:
  *     Signature        "SSDT"
- *     Length           0x00000313 (787)
+ *     Length           0x00000334 (820)
  *     Revision         0x02
- *     Checksum         0x2E
+ *     Checksum         0xF8
  *     OEM ID           "hack"
  *     OEM Table ID     "PNLF"
  *     OEM Revision     0x00000000 (0)
@@ -205,6 +205,14 @@ DefinitionBlock ("", "SSDT", 2, "hack", "PNLF", 0x00000000)
             ElseIf (LEqual (Local2, 0x056C))
             {
                 Store (0x10, _UID)
+            }
+            ElseIf (LEqual (Local2, 0x07A1))
+            {
+                Store (0x11, _UID)
+            }
+            ElseIf (LEqual (Local2, 0x1499))
+            {
+                Store (0x12, _UID)
             }
             Else
             {
