@@ -46,7 +46,7 @@ DefinitionBlock ("", "SSDT", 2, "hack", "HDEF", 0x00000000)
                 "layout-id", 
                 Buffer (0x04)
                 {
-                     0x03, 0x00, 0x00, 0x00                         
+                     0x56, 0x00, 0x00, 0x00                         
                 }, 
 
                 "hda-gfx", 
