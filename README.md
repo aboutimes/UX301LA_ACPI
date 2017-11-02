@@ -1,4 +1,6 @@
 # ux301la_acpi_hotpatch
+### 2 Nov
+- create config file
 ### 2 Oct
 - create ASL0 and KeyBacklight patch for keyboard backlight
 ### 25 Sept
