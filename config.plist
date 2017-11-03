@@ -355,6 +355,7 @@
 				<string>SSDT-ALS0.aml</string>
 				<string>SSDT-Fn.aml</string>
 				<string>SSDT-Backlight.aml</string>
+				<string>SSDT-BATT.aml</string>
 			</array>
 		</dict>
 	</dict>
