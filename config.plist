@@ -375,6 +375,15 @@
 		<key>timeout</key>
 		<integer>5</integer>
 	</dict>
+  <key>BootGraphics</key>
+  <dict>
+    <key>EFILoginHiDPI</key>
+    <integer>1</integer>
+    <key>UIScale</key>
+    <integer>2</integer>
+    <key>flagstate</key>
+    <integer>1</integer>
+  </dict>
 	<key>CPU</key>
 	<dict>
 		<key>UseARTFrequency</key>
