@@ -1,4 +1,6 @@
 # ux301la_acpi_hotpatch
+### 3 Nov
+- create battery patch
 ### 2 Nov
 - create config file
 ### 2 Oct
