@@ -1,4 +1,6 @@
 # ux301la_acpi_hotpatch
+### 1 Jan 2018
+- create static acpi
 ### 3 Nov
 - create battery patch
 ### 2 Nov
